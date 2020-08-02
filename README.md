@@ -53,7 +53,7 @@ After you copied the token proceed to the next step.
 
 ![](https://cdn.discordapp.com/attachments/508571077958434839/511259113712517130/2018-11-11_21.21.00.png)
 
-7. Open the possumbot folder and navigate to `botsettings.json` open it using a text editor like notepad for windows or textedit for mac.
+7. Open the Backdoorbot folder and navigate to `botsettings.json` open it using a text editor like notepad for windows or textedit for mac.
 
 It should look like this
 
