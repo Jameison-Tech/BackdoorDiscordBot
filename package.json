@@ -1,5 +1,5 @@
 {
-  "name": "possumbot",
+  "name": "Jameison-Tech Bot",
   "version": "0.0.1",
   "description": "a bot that will allow you to destroy discord servers",
   "main": "bot.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Barsik008/PossumBot.git"
+    "url": "git+https://github.com/Jameison-Tech/BackdoorDiscordBot.git"
   },
   "author": "barsik",
   "license": "MIT",
@@ -16,7 +16,7 @@
     "discord.js": "^11.4.2"
   },
   "bugs": {
-    "url": "https://github.com/Barsik008/PossumBot/issues"
+    "url": github.com/Jameison-Tech/BackdoorDiscordBot/issues"
   },
-  "homepage": "https://github.com/Barsik008/PossumBot#readme"
+  "homepage": "https://github.com/Jameison-Tech/BackdoorDiscordBot/blob/master/README.md"
 }
