@@ -16,7 +16,7 @@
     "discord.js": "^11.4.2"
   },
   "bugs": {
-    "url": github.com/Jameison-Tech/BackdoorDiscordBot/issues"
+    "url": "git+https://github.com/Jameison-Tech/BackdoorDiscordBot/issues"
   },
   "homepage": "https://github.com/Jameison-Tech/BackdoorDiscordBot/blob/master/README.md"
 }
